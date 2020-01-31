@@ -1,0 +1,208 @@
+# New wiki on how to avoid accidentally encouraging suicide, and how to spot covert incitement
+@ We've been seeing a worrying increase in pro-suicide content showing up here and, and also going unreported. This undermines our purpose here, so we wanted to highlight and clarify our guidelines about both direct and indirect incitement of suicide.  
+We've created a wiki that covers these issues.  We hope this will be helpful to anyone who's wondering whether something's okay here and which responses to report.  It explains in detail why any validation of suicidal intent, even an "innocent" message like "if you're 100% committed, I'll just wish you peace" is likely to increase people's pain, and why it's important to report even subtle pro-suicide comments. The full text of the wiki's current version is below, and it is maintained at /r/SuicideWatch/wiki/incitement. 
+We deeply appreciate everyone who gives responsive, empathetic, non-judgemental support to our OPs, and we particularly thank everyone who's already been reporting incitement in all forms.  
+Please report any post or comment that encourages suicide (or that breaks any of the other guidelines in the sidebar) to the moderators, either by clicking the "report" button or by sending us a modmail with a link. We deal with all guideline violations that are reported to us as soon as we can, but we can't read everything so community reports are essential. If you get a PM that breaks the guidelines, please report it both to the reddit sitewide admins and to us in modmail. 
+Thanks to all the great citizens of the community who help flag problem content and behaviour for us.  
+
+/r/SuicideWatch/wiki/incitement 
+
+Summary
+It's important to respect and understand people's experiences and emotions. It's never necessary, helpful, or kind to support suicidal intent. There are some common misconceptions (discussed below) about suicidal people and how to help them that can cause well-meaning people to inadvertently incite suicide. There are also people online who incite suicide on purpose, often while pretending to be sympathetic and helpful. 
+Validate Feelings and Experiences, Not Self-Destructive Intentions
+We're here to offer support, not judgement.  That means accepting, with the best understanding we can offer, whatever emotions people express.  Suicidal people are suffering, and we're here to try to ease that by providing support and caring.  The most reliable way we know to de-escalate someone at risk is to give them the experience of feeling understood. That means not judging whether they should be feeling the way they are, or telling them what to do or not do.  
+But there's an important line to draw here.  There's a crucial difference between empathizing with feelings and responding non-judgmentally to suicidal thoughts, and in any way endorsing, encouraging, or validating suicidal intentions or hopeless beliefs. 
+Anything that condones suicide, even passively, encourages suicide. It isn't supportive and does not help. It also violates reddit's sitewide rules as well as our guidelines. Explicitly inciting suicide online is a criminal offense in most jurisdictions. 
+Do not treat any OP's post as meaning that will definitely die by suicide and can't change their minds or be helped. Anyone who's able to read the comments here still has a chance to choose whether or not to try to keep living, even if they've also been experiencing intense thoughts of suicide, made a suicide plan, or started carrying it out.  
+In the most useful empirical model we have, the desire to die by suicide primarily comes from two interpersonal factors; alienation and a sense of being a burden or having nothing to offer. These factors usually lead to a profound feeling of being unwelcome in the world. 
+So, any acceptance or reinforcement of suicidal intent, even something "innocent" like "I hope you find peace", is actually a form of covert shunning that validates a person's sense that they're unwelcome in the world. It will usually add to their pain even if kindly meant and gently worded. 
+How to Avoid Validating Suicidal Intent
+Keep the following in mind when offering support to anyone at risk for suicide.  
+
+People who say they don't want help usually can feel better if they get support that doesn't invalidate their emotions. Unfortunately, many popular "good" responses are actually counterproductive. In particular, many friends and family tend to rely exclusively on trying to convince the suicidal person that "it's not so bad", and this is usually experienced as "I don't understand what you're going through and I'm not going to try".  People who've had "help" that made them feel worse don't want any more of the same.  It doesn't mean that someone who actually knows how to be supportive can't give them any comfort.   
+Most people who are suicidal want to end their pain, not their lives.  It's almost never true that death is the only way to end these people's suffering. Of course there are exceptional situations, and we certainly acknowledge that, for some people, the right help can be difficult to find. But preventing someone's suicide doesn't mean prolonging their suffering if we do it by giving them real comfort and understanding. 
+An unfixable problem doesn't mean that a good life will never be possible.  We don't have to fix or change anything to help someone feel better. It's important to keep in mind that the correlation between our outer circumstances and our inner experience is weaker and less direct than commonly assumed.  For every kind of difficult life situation, you will find some people who lapse into suicidal despair, and others who cope amazingly well, and a whole spectrum in between. A key difference is how much inner resilience the person has at the time. This can depend on many personal and situational factors. But when there's not enough, interpersonal support can both compensate for its absence and help rebuild it.  We go into more depth on the "it gets better" issue in this PSA Post which is always linked from our sidebar (community info on mobile) guidelines. 
+There are always more choices than brutally forcing someone to stay alive or passively letting them end their lives.
+
+To avoid accidentally breaking the anti-incitement rule, don't say or try to imply that acting on suicidal thoughts is a good idea, or that someone can't turn back or is already dead.  Do whatever you can to help them feel cared for and welcome, at least in this little corner of the world.  Our talking tips offer more detailed guidance.
+Look Out for Deliberate Incitement.  It May Come in Disguise.
+Often comments that subtly encourage suicidal intent actually come from suicide fetishists and voyeurs (unfortunately this is a real and disturbing phenomenon). People like this are out there and the anonymous nature of reddit makes us particularly attractive to them.  
+They will typically try to scratch their psychological "itch" by saying things that push people closer to the edge.  They often do this by exploiting the myths that we debunked in the bullet points above.  Specifically you might see people doing the following:
+
+Encouraging the false belief that the only way suicidal people can end their pain is by dying.  There are always more and better choices than "brutally forcing someone to stay alive" or helping (actively or passively) them to end their lives.
+Creating an artificial and toxic sense of "solidarity" by linking their encouragement of suicide to empathy.  They will represent themselves as the only one who really understand the suicidal person, while either directly or indirectly encouraging their self-loathing emotions and self-destructive impulses.  Since most people in suicidal crisis are in desperate need to empathy and understanding, this is a particularly dangerous form of manipulation. 
+
+Many suicide inciters are adept at putting a benevolent spin on their activities while actually luring people away from sources of real help.  A couple of key points to keep in mind: 
+
+Skilled suicide intervention -- peer or professional -- is based on empathic responsiveness to the person's feelings that reduces their suffering in the moment.  Contrary to pop-culture myths, it does not involve persuasion ("Don't do it!"), cheerleading ("You've got this!") or meaningless false promises ("Trust me, it gets better!"), or invalidation ("Let me show you how things aren't as bad as you think!").  Anyone who leads others to expect these kinds of toxic responses, or any other response that prolongs their pain, from expert help may be covertly pro-suicide. (Of course, people sometimes do have bad experience when seeking mental-health treatment, and it's fine to vent about those, but processing our own disappointment and frustration is entirely different from trying to destroy someone else's hope of getting help.)
+Choices made by competent responders are always informed by the understanding that breaching someone's trust is traumatic and must be avoided if possible.  Any kind of involuntary intervention is an extremely unlikely outcome when someone consults a clinician or calls a hotline. (Confidentiality is addressed in more detail in our Hotlines FAQ post). The goal is always to provide all help with the client's full knowledge and informed consent. We know that no individual or system is perfect.  Mistakes that lead to bad experiences do sometimes happen to vulnerable people, and we have enormous sympathy for them. But anyone who suggests that this is the norm might be trying to scare people away from the help they need.  
+
+Please let us know discreetly if you see anyone exhibiting these or similar behaviours. We don't recommend trying to engage with them directly.
+
+
+# Reminder: Absolutely no activism of any kind is allowed here. Any day.
+@ If you want to recognise an occasion, please do so by offering extra support to those who've asked for it, and by being a good citizen of the community, mindful of our tips and guidelines.
+Edit:  In response to multiple requests, I'm adding a definition of activism here:  "campaigning to bring about political or social change".  That's straight out of the OED, we aren't making any special interpretation of it.  But since people seem to have difficulty knowing what we mean, any post that is primarily about raising awareness or changing perceptions is activism according to the dictionary definition and thus a violation of the community rules.
+
+
+# Someone help me
+@ Tbh,I kinda feel very sorry for myself. Idk why,I just don’t believe it tbh. Until the end of the day I said today’s my birthday to someone else and everyone then said happy birthday,but it’s worthless to me now. I got surprised with cake and some gift cards but they personally didn’t make me happy. Yes I was happy but it just...idk just made me feel worthless sometimes. I got a reason why...I’ve done some bad in my life and they accept me for that,they don’t accept me as a friend,they only accept me as a weirdo and a annoying loser. I’ll accept my fate and be a statistic after all. I have ambitions that are not good and aren’t that ambitious at all....so yeah.I need motivation and training. ☹️
+
+
+# A self loathing poem/ suicide note, that I wrote when I was waiting for the train to commit suicide, but when the train did come, I froze and was not able to do it, I felt so powerless and scared, and then I saw this note and felt embarrassed about how dramatic it was, life is an unbearable routine
+@ Another day has passed,
+another dream collapsed,
+another spell is cast,
+but this desert, it seems so vast.
+A life spent in the search of meaning,
+might turn out to be an empty book,
+whose pages aren't worth turning.
+From beginning until the end,
+in all my searching, I could find,
+that every desire I cooked up in my mind,
+and every wish that filled my eyes with fire,
+were just a string of bad decisions, 
+that has painted my inescapable past,
+and every emotion that I've come across,
+ran away from me so incredibly fast,
+and the only one that turned up in the end,
+is this overbearing stillness, that has occupied my mind.
+But now.
+The time has come, 
+for me to overcome,
+this struggle, that is life,
+and put an end to my internal strife.
+From beginning until the end,
+I've realized all my searching was just to find,
+the perfect last words,
+to justify, me bidding adieu to this world.
+
+
+# Im sorry, please.
+@ attempting to kill myself failed , yet the reaction i got from everyone around me made me feel like a fucking monster. I dont get it. Im so sorry im horrible and im sorry that im selfish as you said i am. i feel so guilty and nothing can ever fix my doings. i never wanted this, i just felt so fucking unwanted and unloved . I felt so alone. It was unbearable. and my anxiety was so horrible. and it made me cause so much problems to everyone i love. Especially my s/o. and i know it was never a fucking choice, i fucking get it and im so sick and tired of hearing that. I just wanted someone to tell me everything was gonna be alright , i wanted someone to tell me im gonna be okay. I wanted to feel loved. I wanted to be listened to without making others feel horrible and tired of me. ugh. but that all doesn’t matter right. cause im so selfish and horrible for it. i wanna cry on someone. I wanna be hugged. I wanna be caressed. I wanna be okay. I wanna be full of hope. But all im stuck with is me promising to be better and promising to never hurt myself again and me crying my eyes out and saying how so sorry i am. which i am. Im so sorry. please forgive me.
+
+
+# Talk about a curveball...
+@ Today (1/30) at 5:15 PM, my mother suddenly passed away while I was at school. With this happening, I no longer have any parents. As I type this, I'm not as emotional as I thought I'd be. I guess it may be shock? Regardless, my mind is going at a million miles per hour right now... I'm in college and now my mother will never see me graduate from a 4-year college, move out of the house, or any other life achievement. I'm not sure if I can continue... I loved her so much.
+
+
+# I’m going to kill myself tonight,I’m done with it all.
+@ I can’t take life anymore, goodbye.
+Just for context I’m a transgender teen, I hope you don’t mind.
+First point, my family are incredibly transphobic and I won’t be able to transition until I move away.
+And then even if I can start I need an all clear from a therapist,(1 year minimum) then after that 2 years hrt (where I live) wait time then another year for surgery list then another few years on that list for actual surgery.
+So that’s around a decade to get where I want.
+Next point, My best friend who is probably the only reason I have been able to cope isn’t allowed to contact me until they can move away.  (Probably 3-5 years)
+I have nowhere to go to transition.
+Goodbye everyone.
+
+
+# I could die today and nobody would miss me
+@ My family wouldn't miss me, my dad's abusive, my friends don't care about me anymore, and there's a bottle of painkillers on the other side of the trailer. Only thing stopping me is that I wanna die quicker than that. Hell, you guys probably won't say anything either. An "oof" at best.
+
+
+# Nobody can help me
+@ I can't keep living anymore.
+I lost my only friends because I was toxic and vented to them too much.
+I don't have a personality other than being mentally unstable.
+Nobody will diagnose me with any mental health condition (doctors, psychiatrists and psychologists all didn't diagnose me).
+I'm extremely suicidal but have no way of killing myself, just razors in my room for self harm.
+I've been sent to the emergency room numerous times a few years ago for suicidal thoughts and what not.
+They just sent me home after waiting for hours.
+I just want it to end 
+Death is the only certainty in life and I need it but I can't get it.
+Please tell me how I can die
+
+
+# throwaway - I plan on jumping off a car park today.
+@ I've been depressed for about 17 years now and while I've mostly been able to control it, 2019 was an incredibly tough year for me. Now I am at the verge of losing my job, being evicted, and a credit score that will take most of the next decade to rebuild. My life insurance plan is vested and will cover the suicide so my wife will be cared for financially.  The car park is about 10 stories tall and I hope to god that it's  quick.
+
+
+# Living feels so exhausting
+@ Just eating, sleeping and maintaining a proper hygiene is already so overwhelming at times let alone all the responsibilities
+
+
+# I’m having Oreos as my last meal
+@ I have an eating disorder and I haven’t had my favourite food, Oreos in months because I can never stop myself from eating the whole container. But tonight I’ll eat the whole container and die happy
+
+
+# suicide note but i can’t go five words without using bad jokes as a coping mechanism
+@ yeehaw i have finally given up even though i have a perfectly good life and am grossly ungrateful for all the things my parents have done for me :) my doctor guilt trips me and i can’t talk to anyone about how i really feel because then i feel bad about making them feel bad woohoo!!!!! i’m gonna make a shit ton of mac n cheese and then eat all of it and take all of medicines at once!!!!!!!! if you take your depressants for adhd and your stimulants for depression at the same time your brain takes a screenshot haha anyway sorry to my dogs because they’re gonna be really sad and they won’t know why i’m gone and that’s kinda sad but like i don’t have any friends that will really miss me anyway peace lol
+
+
+# I was so close
+@ Tonight I couldn’t sleep. The past week my ideation has completely taken over. Last night I took a handful of pills and alcohol. I woke up fine but disappointed. Idk who I am anymore this week. Tonight I got drunk again and tied a noose. There’s nowhere strong enough or high enough to get the job done so I tied it to the bathroom door. Using my body weight to do the work I collapsed after just 10 seconds I believe. It kinda shook me and I’ve never felt so pathetic and useless. It’s 6 am and I haven’t slept in 2 days, maybe sleep deprivation will help me be a bit more successful this time
+
+
+# I have nothing, why can't i find relief. Tell me how.
+@ I have no home that i can feel comfortable in. I have no money, DON'T TELL ME ABOUT ANY ASSISTANCE PROGRAMS. I HAVE NOTHING!!!!!! 
+This might get lost. I'm not from a 1st world country where there are many aids. If so, i would have taken it. I'm stranded, i can't afford anything on my own. I can't afford an education, which i want so badly.  It's not about "wanting to kill myself". It's about finding relief. Every moment is torture for me. It hurts. I just want a way to contain less space. Just tell me how. Really, i don't want to do this anymore.
+
+
+# Can't wait to die so badly. Just wanna die
+# I'm starting to think that suicide is the best option.
+@ Backstory: I grew up with my family picking on me so I developed major anxiety. 
+During my high school years I was out a lot drinking and smoking. I decided it was a good idea to do LSD and it truly was. I gained so much information and got what I had asked for (i.e. purpose of living, what it means to be human) but because of this I felt so happy and content with life like I had a reason to be alive and enjoy every second. 
+I then got into an abusive relationship (sexually,physically,mentally) and it really killed me. Completely erased my passions (painting, hiking, etc) and left me with not knowing who I am anymore.
+ Eventually got into another relationship that led me to having a baby! Keep in mind I was still recovering and very well traumatized from previous relationship. I tried everything to keep positivity in me. My boyfriend was very positive and much more better person. But it was hard to believe so and trust after that abusive one. 
+Because of this I had depression all pregnancy and was left with PPD (post partum depression) all I thought about was killing myself because I find it hard to believe that things are good anymore. That itll be abusive That my current boyfriend doesn't mean what he says and isn't such a good person after all. 
+All this thinking led me to have panic attacks after panic attacks and it made me lose my own identity completely. 
+I had lost who I was. I dont know what to do anymore. I feel like I'm better off dead than be alive. I'm not depressed. I feel more like I dont belong here. I actually believe that maybe if I'm dead I'll be in a better realm. Live my own paradise and be happier there.
+[Sorry for the very lost post, I genuinely think I need help but I dont know if I'll even accept it. I'm just struggling with my own identity and what I truly want. I dont want to kill myself knowing I'll leave my baby behind...]
+
+
+# I’m Hurting
+@ As I’m writing this, a friend of mine is currently in a medically induced coma as a result of his suicide attempt. His life expectancy is low. Many of my brothers here are in pain as well. All I want to do is to help them and lift them up. And I can do so little but to pray and be with them. I hate that. I know this helplessness can’t compare to the pain and heartbreak his family is feeling, but it is a weight nonetheless, and I just wanted to share it.
+Addendum: I’m in college, it was in his dorm Wednesday night.
+
+
+# Too afraid to do it
+# Lmao oops
+@ So last night I said fuck it and decided to chug down like 5 ibuprofens with a shot of tequila and I’m surprised I’m not dead especially I did it with the intention to kill myself but all I got was a bad stomachache and drowsiness. Well here’s to another day of suffering  after I tried committing suicide for the second time in my life
+
+
+# Found out my method it's not as effective as I hoped
+@ Hi, due to my record of attempts I had to think of something else that would be effective but still obtainable.
+I did some research and cases similar to this type of suicide have only a 60ish% of fatality.
+I don't want to be bed ridden for life, don't want to live this life, a worse conditioned one would be worse.
+
+
+# I want to not wake up.
+@ Money is tight. I'm transgender and my dad doesn't care and refuses to tell my mom because of "her health", but will disown me nevertheless. I don't know why I care: I'm over 40 and live with my wife and kids. I love them, but my wife is so stressed out about money and work and deserves better. The greatest shame is I won't see my kids grow up. 
+I've thought about ending it before, but this is the first time I have a plan. I can't deal with this anymore and just want to sleep and never wake up. I hope my death looks accidental. Insurance will really help my family right now.
+
+
+# Fastest way to kill your self or easiest way to
+@ Just looking for some answers
+
+
+# Need help.
+@ 13 year old boy here, and I have no idea what to do with my life right now.
+My suicidal thoughts started in Year 7 (6th grade) and I really don’t know how to escape them. I’ve never acted on my thoughts, the most I’ve gone to is bringing a knife to my bedroom. 
+I want to off myself because of a number of reasons;
+Crippling self-esteem issues,
+I don’t know if anyone even likes me,
+I don’t think anyone would care if I died, except my family,
+A stupid one, but I have a crush on a girl which I’m sure ignores me and doesn’t care about me,
+Don’t want to self-diagnose, but possibly depression.
+I’ve tried to seek help from Childline, but they were absolutely no use. I talked to my sister about my problems, but nothing really came of it.
+I want to bring it up again, but I’m too embarrassed to talk about it.
+Please help.
+
+
+# Death is a blessing
+@ The petty human struggles, social game, physical hardship, grief, and unbridled optimism the "fortunate" amongst us exhibit as well as unbearable suffering and absurdity of existence; it's one big cruel cosmic joke ... I wish I was never born then I wouldn't have to live with grief, regret, pain and eventual death. Death will take us all back to that blissful state of non-existence ...
+
+
+# A way to say goodbye to people without raising any red flags?
+@ I can't go about killing myself before doing so. I'm really set on doing this and I definitely don't want to put attention on it but I want to say goodbye to the amazing people that made my life bareable. I owe them all the appreciation they deserve
+
+
+# Depression is hitting me deeper than I thought, trying to stay strong but I want to die so bad
+@ I can’t take it anymore. I’ve been suffering for years. None of my friends and family know it. Heck, some of them would always talk about their other friends or family members with mental health problems but little did they know I’m suffering. Due to severe bullying in the past I was put into a mental hospital during highschool and university. My parents don’t know. They thought I went on vacation with friends. When reality was, I was trying to keep my mental health in tact.
+I’m hiding it. No one knows. Outside surface I’m pretty happy. At times, I want to commit suicide. Jump off a bridge again or drown myself again. 
+I just want to end it all. I know life is a blessing but I can’t do it anymore. I’ve made some pretty wrong decisions. We all learn from our mistakes. But all I think about is death. When death comes, life is over. I can’t find my fucking purpose. I’m trying but I really fucking can’t. 
+Financially, my parents don’t help me. I work myself to the bone. I have no time for social life. Only occasionally. I’ve given up my dreams and flew back here thinking my Dad was dying. Now, I’ve lost hope. Everytime I start thinking positive again, life slaps me right back. I just want to fucking cry endlessly. I can’t take it anymore. 
+Nothing makes me happy anymore. I can’t even control my mind. I just want it all to end.
+
+
