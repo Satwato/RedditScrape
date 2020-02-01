@@ -60,12 +60,14 @@ try:
 
           #print(title)
           #print(post)
-
+      #print(next_page_link[:-16])
       if soup.find("span", class_="next-button") != None:
         next_button = soup.find("span", class_="next-button")
         next_page_link = next_button.find("a").attrs['href']
       else:
+        #print("ASSSSSS")
         page = requests.get(next_page_link[:-16], headers=headers)
+        soup = BeautifulSoup(page.text, 'html.parser')
         next_button = soup.find("span", class_="next-button")
         next_page_link = next_button.find("a").attrs['href']
       time.sleep(2)
